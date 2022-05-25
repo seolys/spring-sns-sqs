@@ -1,0 +1,12 @@
+cloud:
+  aws:
+    region:
+      static: ap-northeast-2
+    stack:
+      auto: false
+    credentials:
+      profile-name: dev
+#      access-key: "AKIA4DXDOSAW5ZRJGWVZ"
+#      secret-key: "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"
+#      access-key: ${AWS_CREDENTIALS_ACCESS_KEY}
+#      secret-key: ${AWS_CREDENTIALS_SECRET_KEY}
